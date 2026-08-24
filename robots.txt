@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://ironfuentes20-cmd.github.io/iron-tools/sitemap.xml
